@@ -1,7 +1,31 @@
 .. _Tethys-logos:
 
-.. |logo1| image:: _static/imgs/Tethys/hvt.png
-    :width: 30
+.. |logo1| image:: _static/imgs/Tethys/geoglows.png
+    :width: 50
+.. |logo2| image:: _static/imgs/Tethys/hydroviewer.png
+    :width: 50
+.. |logo3| image:: _static/imgs/Tethys/hvt.png
+    :width: 50
+.. |logo4| image:: _static/imgs/Tethys/nwlf.png
+    :width: 50
+.. |logo5| image:: _static/imgs/Tethys/wde.png
+    :width: 50
+.. |logo6| image:: _static/imgs/Tethys/mde.png
+    :width: 50
+.. |logo7| image:: _static/imgs/Tethys/grace.png
+    :width: 50
+.. |logo8| image:: _static/imgs/Tethys/reservoir.png
+    :width: 50
+.. |logo9| image:: _static/imgs/Tethys/watermappingapp.png
+    :width: 50
+.. |logo10| image:: _static/imgs/Tethys/floodimpactviewer.png
+    :width: 50
+
+.. |logo11| image:: _static/imgs/Tethys/hydrostats.png
+    :width: 50
+
+.. |logo12| image:: _static/imgs/Tethys/climateapp.png
+    :width: 50
 
 
 MANUAL DE USUARIOS DE LA PLATAFORMA TETHYS-INAMHI-ECUADOR
@@ -27,7 +51,7 @@ partes interesadas.
 Plataforma Tethys INAMHI
 *************************
 
-.. image:: _static/imgs/Tethys/tethys.jpeg
+.. image:: _static/imgs/Tethys/tethysPlat.jpeg
 
 La plataforma Tethys alberga aplicaciones para pronóstico hidrológico, meteorológico, visualización y descarga de datos
 relacionadas a variables hidrometeorológicas.
@@ -41,69 +65,46 @@ relacionadas a variables hidrometeorológicas.
 
 A continuación, se describe brevemente cada una de las aplicaciones contenidas en la plataforma Tethys de INAMHI.
 
-:doc:`GEOGloWS HydroViewer </content/AplicacionesHidrologicas>` |logo1|
-    The GEOGloWS ECMWF Streamflow Services provides access to a 40-year simulation and
-    daily 15-day ensemble forecast on nearly 1,000,000 river reaches globally.
+|logo1| :doc:`GEOGloWS HydroViewer </content/AplicacionesHidrologicas>`
+            El GEOGloWS ECMWF Streamflow provee el acceso a la simulación histórica de 40 años y al pronóstico de caudal con una
+            previsión de 15 días para cerca de 1,000,000 de ríos a nivel mundial.
 
+|logo2| :doc:`HydroViewer-Ecuador </content/hydroviewer-ecuador>`
+            El Hydroviewer-Ecuador permite la visualización de pronósticos de caudal para cualquier río en Ecuador y permite
+            visualizar alertas.
 
-:doc:`HydroViewer-Ecuador </content/hydroviewer-ecuador>`
+|logo3| :doc:`Historical Validation Tool </content/historical-validation>`
+            El Historical Validation Tool permite visualizar pronósticos de caudal en los lugares estaciones hidrológicas de INAMHI
+            que posean datos históricos de caudal con el fin de aplicar una corrección a la simulación de caudales.
 
+|logo4| :doc:`National Water Level Forecast </content/national-water-level-forecast>`
+            El National Water Level Foercast permite visualizar pronósticos de nivel solo donde existen datos históricos usando
+            corrección de sesgo.
 
+|logo5| :doc:`Water Data Explorer </content/water-data-explorer>`
+            Aplicación para visualizar, descargar, y graficar datos observados en formato csv, Water ML, jpg y png
 
-:doc:`Historical Validation Tool </content/historical-validation>`
+|logo6| :doc:`Met Data Explorer </content/met-data-explorer>`
+         Aplicación para descubris, visualizar, garficar y descargar pronósticos meteorológicos en netCDF, Grib y geoTIFF.
 
+|logo7| :doc:`GRACE Groundwater </content/groundwater-tools>`
+        Utiliza información satelital para comprender las anomalías de las aguas subterráneas.
+        Esta aplicación aún está en desarrollo.
 
+|logo11| :doc:`HydroStats </content/hydrostats>`
+         Esta aplicación permite procesar series de tiempo (merge, interpolaciones, graficar).
 
-:doc:`National Water Level Forecast </content/national-water-level-forecast>`
+|logo12| :doc:`Tendencias de Clima </content/tendencias-clima>`
+         La aplicación permite comparar datos obtenidos de información satelital y compararlo para diferentes variables.
 
+|logo8| :doc:`Reservorios </content/Reservorios>`
+         La aplicación permite visualizar y descargar datos de pronóstico de caudal para reservorios de agua.
 
+|logo9| :doc:`Water Mapping App</content/historical-WaterMappingApp>`
+         La aplicación usa datos Sentinel 1 para visualizar eventos de inundación pasados en un lugar determinado.
 
-:doc:`Water Data Explorer </content/water-data-explorer>`
-    This web app is used by the WMO as a catalog, data access, and visualization for observational and other time series
-    hydrological data stored at point locations.
-
-
-:doc:`Met Data Explorer </content/met-data-explorer>`
-    Similar to the Water Data Explorer, this app is used to process multi-dimensional gridded data typical of meteorological
-    forecasting systems that produce output in a time series stack of rasters formatted in netCDF, Grib, and geoTIFF. This
-    could be any type of data, but most often are used in GEOGloWS for precipitation.
-
-
-:doc:`GRACE Groundwater </content/groundwater-tools>`
-    The GRACE satellite data have become useful to understand groundwater anomalies. This application (still being updated)
-    provides visualization and access to this information.
-.. image:: _static/imgs/Tethys/grace.png
-   :width: 20%
-
-:doc:`HydroStats </content/streamflow-model/hydrostats>`
-    This application is used for validation of the GEOGloWS streamflow historical and forecasts as you will see in those
-    sections, but it is a general purpose tool to perform a goodness of fit between observed and modeled (or any two) time
-    series.
-
-
-:doc:`Tendencias de Clima </content/streamflow-model/tendencias-clima>`
-    This application is used for validation of the GEOGloWS streamflow historical and forecasts as you will see in those
-    sections, but it is a general purpose tool to perform a goodness of fit between observed and modeled (or any two) time
-    series.
-
-
-:doc:`Reservorios </content/streamflow-model/AplicacionesHidrologicas>`
-    This application is used for validation of the GEOGloWS streamflow historical and forecasts as you will see in those
-    sections, but it is a general purpose tool to perform a goodness of fit between observed and modeled (or any two) time
-    series.
-
-
-:doc:`Water Mapping App</content/streamflow-model/historical-WaterMappingApp>`
-    This application is used for validation of the GEOGloWS streamflow historical and forecasts as you will see in those
-    sections, but it is a general purpose tool to perform a goodness of fit between observed and modeled (or any two) time
-    series.
-
-
-:doc:`Flood Impact Viewer </content/streamflow-model/historical-floodImpactViewer>`
-    This application is used for validation of the GEOGloWS streamflow historical and forecasts as you will see in those
-    sections, but it is a general purpose tool to perform a goodness of fit between observed and modeled (or any two) time
-    series.
-
+|logo10| :doc:`Flood Impact Viewer </content/historical-floodImpactViewer>`
+         La aplicación permite visualizar el impacto de inundaciones. La aplicación aún está en desarrollo para Ecuador.
 
 .. note:: **Páginas de Interés**
 
