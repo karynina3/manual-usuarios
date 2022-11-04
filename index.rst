@@ -130,12 +130,6 @@ A continuación, se describe brevemente cada una de las aplicaciones contenidas 
    content/water-data-explorer
    content/met-data-explorer
 
-Indice
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
 .. _link-to-geoglows-model-page
 
