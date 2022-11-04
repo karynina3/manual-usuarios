@@ -47,17 +47,17 @@ A continuación, se describe brevemente cada una de las aplicaciones contenidas 
 .. image:: _static/imgs/Tethys/geoglows.png
    :scale: 20%
 
-:doc:`HydroViewer-Ecuador </content/AplicacionesHidrologicas>`
+:doc:`HydroViewer-Ecuador </content/hydroviewer-ecuador>`
 
 .. image:: _static/imgs/Tethys/hydroviewer.png
    :scale: 20%
 
-:doc:`Historical Validation Tool </content/AplicacionesHidrologicas>`
+:doc:`Historical Validation Tool </content/historical-validation>`
 
 .. image:: _static/imgs/Tethys/hvt.png
    :scale: 20%
 
-:doc:`National Water Level Forecast </content/AplicacionesHidrologicas>`
+:doc:`National Water Level Forecast </content/national-water-level-forecast>`
 
 .. image:: _static/imgs/Tethys/nwlf.png
    :scale: 20%
@@ -66,7 +66,7 @@ A continuación, se describe brevemente cada una de las aplicaciones contenidas 
     This web app is used by the WMO as a catalog, data access, and visualization for observational and other time series
     hydrological data stored at point locations.
 .. image:: _static/imgs/Tethys/wde.png
-   :scale: 50%
+   :scale: 20%
 
 :doc:`Met Data Explorer </content/met-data-explorer>`
     Similar to the Water Data Explorer, this app is used to process multi-dimensional gridded data typical of meteorological
