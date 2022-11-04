@@ -51,7 +51,7 @@ partes interesadas.
 Plataforma Tethys INAMHI
 *************************
 
-.. image:: _static/imgs/Tethys/tethysPlat.jpeg
+.. image:: _static/imgs/Tethys/tethysPlat.png
 
 La plataforma Tethys alberga aplicaciones para pronóstico hidrológico, meteorológico, visualización y descarga de datos
 relacionadas a variables hidrometeorológicas.
