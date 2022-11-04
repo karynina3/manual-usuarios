@@ -1,7 +1,7 @@
 .. _Tethys-logos:
 
-.. |logohvt| image:: _static/imgs/hydroviewer/hvt.png
-    :width: 70
+.. |logo1| image:: _static/imgs/Tethys/hvt.png
+    :width: 30
 
 
 MANUAL DE USUARIOS DE LA PLATAFORMA TETHYS-INAMHI-ECUADOR
@@ -41,39 +41,33 @@ relacionadas a variables hidrometeorológicas.
 
 A continuación, se describe brevemente cada una de las aplicaciones contenidas en la plataforma Tethys de INAMHI.
 
-:doc:`GEOGloWS HydroViewer </content/AplicacionesHidrologicas>`
+:doc:`GEOGloWS HydroViewer </content/AplicacionesHidrologicas>` |logo1|
     The GEOGloWS ECMWF Streamflow Services provides access to a 40-year simulation and
     daily 15-day ensemble forecast on nearly 1,000,000 river reaches globally.
-.. image:: _static/imgs/Tethys/geoglows.png
-   :scale: 20%
+
 
 :doc:`HydroViewer-Ecuador </content/hydroviewer-ecuador>`
 
-.. image:: _static/imgs/Tethys/hydroviewer.png
-   :scale: 20%
+
 
 :doc:`Historical Validation Tool </content/historical-validation>`
 
-.. image:: _static/imgs/Tethys/hvt.png
-   :scale: 20%
+
 
 :doc:`National Water Level Forecast </content/national-water-level-forecast>`
 
-.. image:: _static/imgs/Tethys/nwlf.png
-   :scale: 20%
+
 
 :doc:`Water Data Explorer </content/water-data-explorer>`
     This web app is used by the WMO as a catalog, data access, and visualization for observational and other time series
     hydrological data stored at point locations.
-.. image:: _static/imgs/Tethys/wde.png
-   :scale: 20%
+
 
 :doc:`Met Data Explorer </content/met-data-explorer>`
     Similar to the Water Data Explorer, this app is used to process multi-dimensional gridded data typical of meteorological
     forecasting systems that produce output in a time series stack of rasters formatted in netCDF, Grib, and geoTIFF. This
     could be any type of data, but most often are used in GEOGloWS for precipitation.
-.. image:: _static/imgs/Tethys/mde.png
-   :scale: 20%
+
 
 :doc:`GRACE Groundwater </content/groundwater-tools>`
     The GRACE satellite data have become useful to understand groundwater anomalies. This application (still being updated)
@@ -85,52 +79,42 @@ A continuación, se describe brevemente cada una de las aplicaciones contenidas 
     This application is used for validation of the GEOGloWS streamflow historical and forecasts as you will see in those
     sections, but it is a general purpose tool to perform a goodness of fit between observed and modeled (or any two) time
     series.
-.. image:: _static/imgs/Tethys/hydrostats.png
-   :scale: 20%
+
 
 :doc:`Tendencias de Clima </content/streamflow-model/tendencias-clima>`
     This application is used for validation of the GEOGloWS streamflow historical and forecasts as you will see in those
     sections, but it is a general purpose tool to perform a goodness of fit between observed and modeled (or any two) time
     series.
-.. image:: _static/imgs/Tethys/climateapp.png
-   :scale: 20%
+
 
 :doc:`Reservorios </content/streamflow-model/AplicacionesHidrologicas>`
     This application is used for validation of the GEOGloWS streamflow historical and forecasts as you will see in those
     sections, but it is a general purpose tool to perform a goodness of fit between observed and modeled (or any two) time
     series.
-.. image:: _static/imgs/Tethys/reservoir.png
-   :scale: 20%
+
 
 :doc:`Water Mapping App</content/streamflow-model/historical-WaterMappingApp>`
     This application is used for validation of the GEOGloWS streamflow historical and forecasts as you will see in those
     sections, but it is a general purpose tool to perform a goodness of fit between observed and modeled (or any two) time
     series.
-.. image:: _static/imgs/Tethys/watermappingapp.png
-   :scale: 20%
+
 
 :doc:`Flood Impact Viewer </content/streamflow-model/historical-floodImpactViewer>`
     This application is used for validation of the GEOGloWS streamflow historical and forecasts as you will see in those
     sections, but it is a general purpose tool to perform a goodness of fit between observed and modeled (or any two) time
     series.
-.. image:: _static/imgs/Tethys/floodimpactviewer.png
-   :scale: 20%
 
 
 .. note:: **Páginas de Interés**
 
              Página de INAMHI:
             `INAMHI <https://www.inamhi.gob.ec/>`_
-
             Página de SERVIR-Amazonia:
             `SERVIR-Amazonia <https://servir.ciat.cgiar.org/?lang=es>`_
-
             Página de Fundación EcoCiencia:
             `Fundacion EcoCiencia <https://ecociencia.org/>`_
-
             Página de Laboratorio de Hydroinformática Brigham Young University:
             `Video BYU <https://hydroinformatics.byu.edu/>`_
-
             Video de Brigham Young University-GEOGloWS:
             `Video BYU <https://youtu.be/PLG8U8AQmXY>`_
 
@@ -138,14 +122,12 @@ A continuación, se describe brevemente cada una de las aplicaciones contenidas 
    :maxdepth: 1
    :caption: Contents:
 
-
    content/AplicacionesHidrologicas
    content/hydroviewer-ecuador
    content/historical-validation
    content/national-water-level
    content/water-data-explorer
    content/met-data-explorer
-
 
 Indice
 ==================
