@@ -119,7 +119,7 @@ A continuación, se describe brevemente cada una de las aplicaciones contenidas 
             `Video BYU <https://youtu.be/PLG8U8AQmXY>`_
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 6
    :caption: Contents:
 
    content/AplicacionesHidrologicas
