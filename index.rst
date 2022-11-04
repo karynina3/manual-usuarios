@@ -45,22 +45,22 @@ A continuación, se describe brevemente cada una de las aplicaciones contenidas 
     The GEOGloWS ECMWF Streamflow Services provides access to a 40-year simulation and
     daily 15-day ensemble forecast on nearly 1,000,000 river reaches globally.
 .. image:: _static/imgs/Tethys/geoglows.png
-   :scale: 50%
+   :scale: 20%
 
 :doc:`HydroViewer-Ecuador </content/AplicacionesHidrologicas>`
 
 .. image:: _static/imgs/Tethys/hydroviewer.png
-   :scale: 50%
+   :scale: 20%
 
 :doc:`Historical Validation Tool </content/AplicacionesHidrologicas>`
 
 .. image:: _static/imgs/Tethys/hvt.png
-   :scale: 50%
+   :scale: 20%
 
 :doc:`National Water Level Forecast </content/AplicacionesHidrologicas>`
 
 .. image:: _static/imgs/Tethys/nwlf.png
-   :scale: 50%
+   :scale: 20%
 
 :doc:`Water Data Explorer </content/water-data-explorer>`
     This web app is used by the WMO as a catalog, data access, and visualization for observational and other time series
@@ -73,48 +73,48 @@ A continuación, se describe brevemente cada una de las aplicaciones contenidas 
     forecasting systems that produce output in a time series stack of rasters formatted in netCDF, Grib, and geoTIFF. This
     could be any type of data, but most often are used in GEOGloWS for precipitation.
 .. image:: _static/imgs/Tethys/mde.png
-   :scale: 50%
+   :scale: 20%
 
 :doc:`GRACE Groundwater </content/groundwater-tools>`
     The GRACE satellite data have become useful to understand groundwater anomalies. This application (still being updated)
     provides visualization and access to this information.
 .. image:: _static/imgs/Tethys/grace.png
-   :width: 200
+   :width: 20%
 
 :doc:`HydroStats </content/streamflow-model/hydrostats>`
     This application is used for validation of the GEOGloWS streamflow historical and forecasts as you will see in those
     sections, but it is a general purpose tool to perform a goodness of fit between observed and modeled (or any two) time
     series.
 .. image:: _static/imgs/Tethys/hydrostats.png
-   :scale: 50%
+   :scale: 20%
 
 :doc:`Tendencias de Clima </content/streamflow-model/tendencias-clima>`
     This application is used for validation of the GEOGloWS streamflow historical and forecasts as you will see in those
     sections, but it is a general purpose tool to perform a goodness of fit between observed and modeled (or any two) time
     series.
 .. image:: _static/imgs/Tethys/climateapp.png
-   :scale: 50%
+   :scale: 20%
 
 :doc:`Reservorios </content/streamflow-model/AplicacionesHidrologicas>`
     This application is used for validation of the GEOGloWS streamflow historical and forecasts as you will see in those
     sections, but it is a general purpose tool to perform a goodness of fit between observed and modeled (or any two) time
     series.
 .. image:: _static/imgs/Tethys/reservoir.png
-   :scale: 50%
+   :scale: 20%
 
 :doc:`Water Mapping App</content/streamflow-model/historical-WaterMappingApp>`
     This application is used for validation of the GEOGloWS streamflow historical and forecasts as you will see in those
     sections, but it is a general purpose tool to perform a goodness of fit between observed and modeled (or any two) time
     series.
 .. image:: _static/imgs/Tethys/watermappingapp.png
-   :scale: 50%
+   :scale: 20%
 
 :doc:`Flood Impact Viewer </content/streamflow-model/historical-floodImpactViewer>`
     This application is used for validation of the GEOGloWS streamflow historical and forecasts as you will see in those
     sections, but it is a general purpose tool to perform a goodness of fit between observed and modeled (or any two) time
     series.
 .. image:: _static/imgs/Tethys/floodimpactviewer.png
-   :scale: 50%
+   :scale: 20%
 
 
 .. note:: **Páginas de Interés**
@@ -140,6 +140,9 @@ A continuación, se describe brevemente cada una de las aplicaciones contenidas 
 
 
    content/AplicacionesHidrologicas
+   content/hydroviewer-ecuador
+   content/historical-validation
+   content/national-water-level
    content/water-data-explorer
    content/met-data-explorer
 
