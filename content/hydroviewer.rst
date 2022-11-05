@@ -63,7 +63,7 @@ estadísticos y descarga.
    :align: center
 
 Pronósticos
-##########
+===============
 El pronóstico proviene de 51 simulaciones diferentes y uno de alta resolución, incluye los períodos de retorno que se
 activan de forma predeterminada cuando la previsión supera un umbral.
 Los valores de umbral del período de retorno se muestran al pasar el cursor sobre ellos en el borde derecho del gráfico.
@@ -90,7 +90,7 @@ descarga en la opción de la cámara, zoom, pan, zoom in, zoom out, autoscale, r
 exceden el periodo de retorno.
 
 Simulación histórica
-######################
+=====================
 El gráfico desplegado en esta opción es la simulación histórica de los últimos 40 años. Los diferentes colores en el
 gráfico representan los diferentes períodos de retorno que se calculan a partir de la simulación histórica de 40 años.
 Los periodos de retorno pueden ser activados o desactivados según considere. También puede realizar zoom en un fecha
@@ -102,7 +102,7 @@ específica utilizando el cursor del mouse.
 
 
 Estadísticas de simulación histórica
-######################################
+===========================================
 En esta opción se puede observar: curva de duración de caudales, estacionalidad diaria y estacionalidad mensual.
 
 .. image:: _static/imgs/hydroviewer/historicalsimulationstatistics.png
@@ -110,7 +110,7 @@ En esta opción se puede observar: curva de duración de caudales, estacionalida
    :align: center
 
 Descarga
-##################
+===========
 En esta opción le permite descargar el pronóstico y la simulación histórica en formato .csv
 
 .. image:: _static/imgs/hydroviewer/descargadatoscsv.png
