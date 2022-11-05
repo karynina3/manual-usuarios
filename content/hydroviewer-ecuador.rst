@@ -2,10 +2,11 @@
 
 .. |logo| image:: _static/imgs/hydroviewer/hydroviewer.png
     :width: 60
+
 .. |desplegable| image:: _static/imgs/hydroviewer/provincias.png
     :width: 30
 
-|logo| HYDROVIEWER-Ecuador
+ |logo|  HYDROVIEWER-Ecuador
 ===============================
 
 .. note:: **Información General**
@@ -15,7 +16,7 @@
 
 La interfaz de usuario muestra la delimitación de los ríos en color azul.
 
-.. image:: _static/imgs/hydroviewer/hydroviewerpag.png
+.. image:: _static/imgs/hydroviewer/hydroviewer.png
    :width: 500
    :align: center
 
