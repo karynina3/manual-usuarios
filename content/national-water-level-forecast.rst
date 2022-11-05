@@ -1,4 +1,4 @@
-.. _Hydroviewer Ecuador:
+.. _National Water Level Forecast:
 
 .. |logonwlf| image:: _static/imgs/nwlf/nwlf.png
     :width: 50

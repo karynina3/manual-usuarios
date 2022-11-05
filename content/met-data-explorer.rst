@@ -32,7 +32,7 @@
 .. |seleccionmapa| image:: _static/imgs/met-data-explorer/seleccionmapa.png
     :scale: 50
 
-|logo| Met Data Explorer (MDE)
+|logo| MET DATA EXPLORER (MDE)
 #########################################
 
 
