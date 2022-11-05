@@ -7,7 +7,7 @@
     :width: 30
 
 
- |logohydro| HYDROVIEWER-ECUADOR
+ HYDROVIEWER-ECUADOR
 #########################################
 
 

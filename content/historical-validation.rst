@@ -4,7 +4,7 @@
     :width: 70
 
 
-|logo| HISTORICAL VALIDATION TOOL (HVT)
+HISTORICAL VALIDATION TOOL (HVT)
 ######################################
 
 .. note:: **Información General**
