@@ -1,7 +1,7 @@
 .. _Historical Validation Tool:
 
 .. |logo| image:: _static/imgs/historical-validation/hvt.png
-    
+
 
 
 HISTORICAL VALIDATION TOOL (HVT)
