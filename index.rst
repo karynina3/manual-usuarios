@@ -70,8 +70,8 @@ A continuación, se describe brevemente cada una de las aplicaciones contenidas 
             previsión de 15 días para cerca de 1,000,000 de ríos a nivel mundial.
 
 |logo2| :doc:`HydroViewer-Ecuador </content/hydroviewer>`
-            El Hydroviewer-Ecuador permite la visualización de pronósticos de caudal para cualquier río en Ecuador y permite
-            visualizar alertas.
+             El Hydroviewer-Ecuador permite la visualización de pronósticos de caudal para cualquier río en Ecuador y permite
+             visualizar alertas.
 
 |logo3| :doc:`Historical Validation Tool </content/historical-validation>`
             El Historical Validation Tool permite visualizar pronósticos de caudal en los lugares estaciones hidrológicas de INAMHI
@@ -119,9 +119,6 @@ A continuación, se describe brevemente cada una de las aplicaciones contenidas 
    :caption: Contents:
 
    content/AplicacionesHidrologicas
-   content/hydroviewer
-   content/historical-validation
-   content/national-water-level
    content/water-data-explorer
    content/met-data-explorer
 

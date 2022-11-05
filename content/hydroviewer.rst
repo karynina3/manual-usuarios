@@ -3,14 +3,14 @@
 .. |logohydro| image:: _static/imgs/hydroviewer/hydroviewer.png
     :width: 50
 
-#########################################
+
 HYDROVIEWER-ECUADOR
 ##########################################
 
 
 .. note:: **Información General**
-    Hydroviewer Ecuador |logohydro| muestra el pronóstico de caudal para cualquier río en el Ecuador. La red de ríos obtenida resulta
-    de la extracción de ríos global del GEOGloWS ECMWF.
+    Hydroviewer Ecuador |logohydro| muestra el pronóstico de caudal para cualquier río en el Ecuador. La red de ríos
+    obtenida resulta de la extracción de ríos global del GEOGloWS ECMWF.
 
 
 La interfaz de usuario muestra la delimitación de los ríos en color azul.
