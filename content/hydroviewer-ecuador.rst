@@ -1,12 +1,12 @@
 .. _Hydroviewer Ecuador:
 
-.. |logo| image:: _static/imgs/hydroviewer/hydroviewer.png
-    :width: 60
+.. |logohydro| image:: _static/imgs/hydroviewer/hydroviewer.png
+    :width: 50
 
 .. |desplegable| image:: _static/imgs/hydroviewer/provincias.png
     :width: 30
 
- |logo|  HYDROVIEWER-Ecuador
+ |logohydro|  HYDROVIEWER-Ecuador
 ===============================
 
 .. note:: **Información General**
