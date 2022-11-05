@@ -65,7 +65,7 @@ relacionadas a variables hidrometeorológicas.
 
 A continuación, se describe brevemente cada una de las aplicaciones contenidas en la plataforma Tethys de INAMHI.
 
-|logo1| :doc:`GEOGloWS HydroViewer </content/geoglows-hydroviewer`
+|logo1| :doc:`GEOGloWS HydroViewer </content/geoglows-hydroviewer>`
             El GEOGloWS ECMWF Streamflow provee el acceso a la simulación histórica de 40 años y al pronóstico de caudal con una
             previsión de 15 días para cerca de 1,000,000 de ríos a nivel mundial.
 
@@ -108,10 +108,14 @@ A continuación, se describe brevemente cada una de las aplicaciones contenidas 
 
 .. note:: **Páginas de Interés**
 
-             Página de INAMHI: `INAMHI <https://www.inamhi.gob.ec/>`_
+            Página de INAMHI: `INAMHI <https://www.inamhi.gob.ec/>`_
+
             Página de SERVIR-Amazonia: `SERVIR-Amazonia <https://servir.ciat.cgiar.org/?lang=es>`_
+
             Página de Fundación EcoCiencia: `Fundacion EcoCiencia <https://ecociencia.org/>`_
+
             Página de Laboratorio de Hydroinformática Brigham Young University: `Video BYU <https://hydroinformatics.byu.edu/>`_
+
             Video de Brigham Young University-GEOGloWS: `Video BYU <https://youtu.be/PLG8U8AQmXY>`_
 
 .. toctree::
@@ -119,8 +123,7 @@ A continuación, se describe brevemente cada una de las aplicaciones contenidas 
    :caption: Contents:
 
    content/AplicacionesHidrologicas
-
-   content/hydroviewer
+    content/hydroviewer
    content/historical-validation
    content/national-water-level
    content/water-data-explorer

@@ -1,7 +1,7 @@
 .. _Historical Validation Tool:
 
-.. |logo| image:: _static/imgs/hydroviewer/hvt.png
-    :width: 70
+.. |logo| image:: _static/imgs/historical-validation/hvt.png
+    
 
 
 HISTORICAL VALIDATION TOOL (HVT)
@@ -10,12 +10,13 @@ HISTORICAL VALIDATION TOOL (HVT)
 .. note:: **Información General**
     Esta aplicación usa los datos observados de caudal históricos de las estaciones monitoreadas por INAMHI para ajustar
     los Servicios de GEOGloWS ECMWF Streamflow Prediction para las estaciones hidrológicas en Ecuador.
+                           |logo|
+
 
 **En esta aplicación se puede visualizar pronóstico de caudal con un horizonte de 15 días y adicional se muestra la
 corrección de sesgo.**
 
-La corrección de sesgo usada se basa en curvas de duración de caudales mensuales descrito por Sanchez- Lozano
- (`<https://doi.org/10.3390/hydrology8020071>`_).
+La corrección de sesgo usada se basa en curvas de duración de caudales mensuales descrito por Sanchez- Lozano (`<https://doi.org/10.3390/hydrology8020071>`_).
 
 Para cada estación, el usuario puede ver series de tiempo y calcular métricas de error. La interfaz de usuario muestra
 la delimitación de los ríos en azul y de las estaciones con mediciones de caudales identificados con puntos en rojo.

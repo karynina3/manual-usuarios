@@ -1,11 +1,29 @@
+.. _Aplicaciones Hidrologicas:
+
+.. |logo0| image:: _static/imgs/Tethys/geoglows.png
+    :width: 70
+
+.. |logo1| image:: _static/imgs/Tethys/hydroviewer.png
+    :width: 70
+
+.. |logo2| image:: _static/imgs/historical-validation/hvt.png
+    :width: 70
+
+.. |logo3| image:: _static/imgs/nwlf/nwlf.png
+    :width: 70
+
 APLICACIONES HIDROLÓGICAS
 ##########################
+
+|logo0| |logo1| |logo2| |logo3|
+
 `Video Inundaciones: herramientas de pronóstico de inundaciones <https://www.youtube.com/watch?v=lCTsUr9G3j0&t=4s>`_
 
 Las aplicaciones hidrológicas usan el modelo  GEOGloWS ECMWF Streamflow Hydroviewer. El modelo es parte de la iniciativa de
 GEOGloWS: `Iniciativa GEOGloWS <https://www.geoglows.org/>`_
 
 El modelo GEOGloWS ECMWF streamflow es un modelo hidrológico global que consta de 52 ensambles.
+
 
 La previsión hidrológica se calcula con el sistema de previsión meteorológica del ECMWF, que tiene 51 miembros
 de 18 km de resolución para los 10 primeros días (días 1 a 10) y 36 km de resolución para los 5 días siguientes
@@ -22,11 +40,10 @@ Modeling as a Service (HMaaS).
 A continuación se muestran las zonas en las que actualmente funciona el modelo.
 
 
-
 El modelo presenta una simulación histórica desde el 01/01/1979 hasta el presente (2 - 3 meses de retraso) con resolución diaria.
 
 
-
+.. image:: _static/imgs/Tethys/forecast.png
 
 Los miembros máximos y mínimos están representados por las líneas discontinuas azules.
 Los percentiles 75 y 25 se muestran como la parte superior e inferior del rango verde, respectivamente.
