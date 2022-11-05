@@ -11,24 +11,29 @@
     Esta aplicación usa los datos observados de caudal históricos de las estaciones monitoreadas por INAMHI para ajustar
     los Servicios de GEOGloWS ECMWF Streamflow Prediction para las estaciones hidrológicas en Ecuador.
 
-En esta aplicación se puede visualizar pronóstico de caudal con un horizonte de 15 días y adicional se muestra la
-corrección de sesgo.
-La corrección de sesgo usada se basa en curvas de duración de caudales mensuales descrito por Sanchez-LOzano
+**En esta aplicación se puede visualizar pronóstico de caudal con un horizonte de 15 días y adicional se muestra la
+corrección de sesgo.**
+
+La corrección de sesgo usada se basa en curvas de duración de caudales mensuales descrito por Sanchez- Lozano
+ (`<https://doi.org/10.3390/hydrology8020071>`_).
+
 Para cada estación, el usuario puede ver series de tiempo y calcular métricas de error. La interfaz de usuario muestra
 la delimitación de los ríos en azul y de las estaciones con mediciones de caudales identificados con puntos en rojo.
 
-
+.. image:: _static/imgs/historical-validation/hvt.png
 
 A manera de ejemplo, seleccione una estación al hacer clic. Para este ejemplo, haga zoom en la Estación Napo en Nuevo
 Rocafuerte (Station Code: H1136, estación COMID (ID de río): 9026410).
 
-Imagen. Hacer un remark de la estación Napo Rocafuerte
 
 Al hacer clic en la estación, aparecerá una ventana emergente con los datos de la misma. La ventana emergente, mostrarán
 4 pestañas diferentes: hidrograma, análisis visual, reporte de métricas y pronóstico.
 
+
+
 Hidrograma
 ================
+.. image:: _static/imgs/historical-validation/hvt.png
 
 La pestaña muestra el hidrograma con los valores observados de caudal, la simulación histórica y la simulación histórica
 corregida. Este gráfico muestra la mejora entre el hidrograma de datos históricos simulados (rojo) y el hidrograma de
@@ -68,16 +73,16 @@ Los datos pueden ser descargados desde la pestaña final.
 
     Uso de la API - GEOGloWS ECMWF Streamflow Services - Ecuador
 
-    `**Material:** <https://colab.research.google.com/drive/1LSEySZoTGm1mETqeMlbL7NxFBDLbyL0R?usp=sharing>`_
-    `**Video:** <https://drive.google.com/file/d/1XkgVRIlULSZhCyWPlfRgo-lclZ1itqzE/view?usp=sharing>`_
+    `Material: <https://colab.research.google.com/drive/1LSEySZoTGm1mETqeMlbL7NxFBDLbyL0R?usp=sharing>`_
+    `Video: <https://drive.google.com/file/d/1XkgVRIlULSZhCyWPlfRgo-lclZ1itqzE/view?usp=sharing>`_
 
     Correción del Sesgo - GEOGloWS ECMWF Streamflow Prediction Services - Ecuador
 
-    `**Material:** <https://drive.google.com/file/d/1L4BraZzLNfXsDCvoXxtKgi7v2grxUmJu/view?usp=sharing>`_
-    `**Video:** <https://drive.google.com/file/d/1L91tVe3jNpFvFxhZK4uWO1oNgBcEjoil/view?usp=sharing>`_
+    `Material: <https://drive.google.com/file/d/1L4BraZzLNfXsDCvoXxtKgi7v2grxUmJu/view?usp=sharing>`_
+    `Video: <https://drive.google.com/file/d/1L91tVe3jNpFvFxhZK4uWO1oNgBcEjoil/view?usp=sharing>`_
 
     Evaluación del desempeño de los pronósticos del modelo GESS - Ecuador
     *****************************************************************************
-    `**Material:** <https://drive.google.com/drive/folders/1-9X0J50X9joOwp8Kzct540Q5ExJgvEJl?usp=sharing>`_
-    `**Video:** <https://drive.google.com/file/d/168iamcxcHl2GbMwlnt8z3fZ3GIcGGuZ8/view?usp=sharing>`_
+    `Material: <https://drive.google.com/drive/folders/1-9X0J50X9joOwp8Kzct540Q5ExJgvEJl?usp=sharing>`_
+    `Video: <https://drive.google.com/file/d/168iamcxcHl2GbMwlnt8z3fZ3GIcGGuZ8/view?usp=sharing>`_
 
