@@ -6,8 +6,9 @@
 .. |desplegable| image:: _static/imgs/hydroviewer/provincias.png
     :width: 30
 
+
  |logohydro|  HYDROVIEWER-Ecuador
-===============================
+##################################################
 
 .. note:: **Información General**
     Hydroviewer Ecuador muestra el pronóstico de caudal para cualquier río en el Ecuador. La red de ríos obtenida resulta
