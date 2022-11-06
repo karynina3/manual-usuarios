@@ -200,17 +200,4 @@ En la parte superior derecha del gráfico se muestra una serie de botones |boton
 el botón en forma de cámara (botón número 2), y se decargará la imagen en .png
 
 
-Recursos Adicionales
-********************
 
-- `MDE Source Code <https://github.com/BYU-Hydroinformatics/Met-Data-Explorer>`_
-
-- `Grids Source Code <https://github.com/rileyhales/grids>`_
-
-- `Grids Documentation <https://tsgrids.readthedocs.io/en/stable/>`_
-
-- `Grids Demo <https://gist.github.com/rileyhales/79761303df16127e0195e11425fc2d9d>`_
-
-- `CF Conventions <https://cfconventions.org/cf-conventions/cf-conventions.html>`_
-
-- `NCML Cookbook <https://docs.unidata.ucar.edu/thredds/ncml/current/ncml_cookbook.html>`_
