@@ -52,21 +52,6 @@ El pronóstico de alta resolución se presenta en una línea negra.
 Los periodos de retorno de 2,5,10,25 y 100 años se muestran respectivamente como las zonas horizontales amarilla, roja y morada.
 
 
-.. toctree::
-   :maxdepth: 6
-   :caption: Contents:
-
-   content/AplicacionesHidrologicas
-   content/hydroviewer
-   content/historical-validation
-   content/national-water-level
-   content/water-data-explorer
-   content/met-data-explorer
-
-.. _link-to-geoglows-model-page
-
-.. rst shortcut to make a link
-
 
 
 
